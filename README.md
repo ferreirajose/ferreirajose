@@ -1,6 +1,6 @@
 ### José Ferreira da Silva 
 
-Here are some ideas to get you started:
+My name is José Ferreira, currently working as a Front End Developer.
 
 - 🔭 I’m currently working on Indra Company
 - 🌱 I’m currently learning Flutter
